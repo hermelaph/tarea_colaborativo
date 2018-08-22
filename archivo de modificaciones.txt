@@ -1,3 +1,10 @@
 "Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Hermela_Persona_1
+
+Manuel_Persona_2
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/hermelaph/tarea_colaborativo
+
+https://github.com/manuelpintado/tarea_colaborativo
